@@ -36,7 +36,7 @@ Here are some ideas to get you started:
  
 </div>  
 
-## My Skill Set  By coincidence!, I'm Leser :(
+## My Skill Set 丨 By coincidence!, I'm Leser :(
 <table align="center"><tr><td valign="top" width="33%"> 
 
 
