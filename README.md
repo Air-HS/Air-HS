@@ -86,7 +86,7 @@ Here are some ideas to get you started:
   <br/>  
   <h2>Friends</h2>
   <br/>  
-  <img src="https://count.getloli.com/get/@zkhssb?theme=rule34" alt="zkhssb" />
+  <img src="https://count.getloli.com/get/@Air-HS?theme=rule34" alt="Air-HS" />
 </div>  
 
 <br/>  
