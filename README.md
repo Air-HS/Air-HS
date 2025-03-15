@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 
 
-### Frontend  
+### Welcome to your visit!  
 <div align="center">  
  
 </div>
