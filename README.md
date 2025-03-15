@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ## Connect with me  
 <div align="center">
 <a href="https://space.bilibili.com/1360075759" target="_blank">
-<img src=https://img.shields.io/badge/bilibili-Air-HS-%2324292e.svg?&style=for-the-badge&logo=BILIBILI&logoColor=white%20alt=BILIBILI-2 style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/bilibili-Air_HS-%2324292e.svg?&style=for-the-badge&logo=BILIBILI&logoColor=white%20alt=BILIBILI-2 style="margin-bottom: 5px;" />
 </a>  
 <a href="#" target="_blank">
 <img src=https://img.shields.io/badge/bilibili-不告诉你我小号-%2324292e.svg?&style=for-the-badge&logo=BILIBILI&logoColor=white%20alt=BILIBILI-2 style="margin-bottom: 5px;" />
